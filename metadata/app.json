@@ -1,6 +1,6 @@
 {
 	"name": "csv-onboarding",
-	"api_url": "http://10.26.0.41:8000/v2",
+	"api_url": "http://api.sipengines.com:8000/v2",
 	"i18n": {
 		"en-US": {
 			"label": "CSV Onboarding",
