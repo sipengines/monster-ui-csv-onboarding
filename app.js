@@ -605,7 +605,8 @@ define(function(require) {
 						device_type: 'sip_device',
 						enabled: true,
 						mac_address: data.mac_address,
-						name: data.first_name + ' ' + data.last_name + ' - ' + data.brand + ' ' + data.model,
+						name: data.first_name + ' ' + data.extension,
+						//name: data.first_name + ' ' + data.last_name + ' - ' + data.brand + ' ' + data.model,
 						provision: {
 							endpoint_brand: data.brand,
 							endpoint_family: data.family,
