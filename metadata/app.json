@@ -23,9 +23,6 @@
 		"",
 		""
 	],
-	"urls": {
-		"documentation": "{documentation_url}",
-		"howto": "{howto_video_url}"
-	},
+	"phase": "alpha",
 	"pvt_type": "app"
 }
